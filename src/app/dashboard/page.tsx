@@ -1,3 +1,5 @@
+"use client";
+
 import Breadcrumb from "@/components/Breadcumb";
 
 export default function DashboardPage() {

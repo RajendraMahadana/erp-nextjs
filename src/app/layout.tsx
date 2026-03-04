@@ -8,7 +8,7 @@ import Header from "@/components/Header";
 
 
 export const metadata: Metadata = {
-  title: "Nowa Dashboard",
+  title: "ERP Cration",
   description: "Bootstrap Responsive Admin Dashboard",
 };
 

@@ -1,3 +1,5 @@
+"use client";
+
 import Breadcrumb from "@/components/Breadcumb";
 import Link from "next/link";
 
